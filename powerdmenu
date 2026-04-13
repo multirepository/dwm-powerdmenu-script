@@ -1,0 +1,14 @@
+#!/bin/bash
+
+options="power-shutdown\npower-reboot\npower-sleep"
+
+chosen=$(echo -e "$options" | dmenu -b -i -p "Power:")
+
+case "$chosen" in
+    power-shutdown)
+        systemctl poweroff ;;
+    power-reboot)
+        systemctl reboot ;;
+    power-sleep)
+        systemctl suspend ;;
+esac
