@@ -1,15 +1,15 @@
 Instalation:
   ```
-  cd ~ && git clone https://github.com/multirepository/powerdmenu-script
+  cd ~ && git clone https://github.com/multirepository/dwm-powerdmenu-script
   ```
   ```
-  sudo mv ~/powerdmenu-script/powerdmenu /usr/local/bin
+  sudo mv ~/dwm-powerdmenu-script/powerdmenu /usr/local/bin
   ```
   ```
   sudo chmod +x /usr/local/bin/powerdmenu
   ```
   ```
-  rm -rf ~/powerdmenu-script
+  rm -rf ~/dwm-powerdmenu-script
   ```
 Usage:
 open dmenu ```Mod + P```, search ```powerdmenu```
