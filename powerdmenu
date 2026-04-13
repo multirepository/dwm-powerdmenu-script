@@ -1,9 +1,6 @@
 #!/bin/bash
-
 options="power-shutdown\npower-reboot\npower-sleep"
-
 chosen=$(echo -e "$options" | dmenu -b -i -p "power:")
-
 case "$chosen" in
     power-shutdown)
         systemctl poweroff ;;
