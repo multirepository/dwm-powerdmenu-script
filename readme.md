@@ -1,5 +1,8 @@
 Instalation:
   ```
+  cd ~ && git clone https://github.com/multirepository/powerdmenu-script
+  ```
+  ```
   sudo mv ~/powerdmenu-script/powerdmenu /usr/local/bin
   ```
   ```
