@@ -1,6 +1,6 @@
 Instalation:
   ```
-  sudo cp ~/powerdmenu /usr/local/bin
+  sudo mv ~/powerdmenu /usr/local/bin
   ```
   ```
   sudo chmod +x /usr/local/bin/powerdmenu
