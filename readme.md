@@ -1,4 +1,4 @@
-Installtion:
+Installation:
   ```
   cd ~ && git clone https://github.com/multirepository/dwm-powerdmenu-script
   ```
