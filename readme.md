@@ -8,9 +8,6 @@ Installation:
   ```
   sudo chmod +x /usr/local/bin/powerdmenu
   ```
-  ```
-  rm -rf ~/dwm-powerdmenu-script
-  ```
 Usage:
 open dmenu ```Mod + P```, search ```powerdmenu```
 
