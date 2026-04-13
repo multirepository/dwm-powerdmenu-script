@@ -1,6 +1,6 @@
 Instalation:
   ```
-  sudo mv ~/powerdmenu /usr/local/bin
+  sudo mv ~/powerdmenu-script/powerdmenu /usr/local/bin
   ```
   ```
   sudo chmod +x /usr/local/bin/powerdmenu
