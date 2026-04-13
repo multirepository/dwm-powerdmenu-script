@@ -3,7 +3,7 @@ Installation:
   cd ~ && git clone https://github.com/multirepository/dwm-powerdmenu-script
   ```
   ```
-  sudo mv ~/dwm-powerdmenu-script/powerdmenu /usr/local/bin
+  sudo cp ~/dwm-powerdmenu-script/powerdmenu /usr/local/bin
   ```
   ```
   sudo chmod +x /usr/local/bin/powerdmenu
