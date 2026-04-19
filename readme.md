@@ -8,7 +8,7 @@ Installation:
   ```
   sudo chmod +x /usr/local/bin/powerdmenu
   ```
-Dependencies:```dmenu```, ```systemd```
+Dependencies: ```dmenu```, ```systemd```
 
 Usage:
 open dmenu ```Mod + P```, search ```powerdmenu```
