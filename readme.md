@@ -13,4 +13,7 @@ Dependencies: ```dmenu```, ```systemd```
 Usage:
 open dmenu ```Mod + P```, search ```powerdmenu```
 
+Colors note for my dwm config:
+```-nb "#222222" -nf "#bbbbbb" -sb "#595856" -sf "#eeeeee"```
+
 Have a good day!
